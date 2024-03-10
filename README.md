@@ -1,12 +1,12 @@
 # Medical-Insurance-Cost-Prediction
 
-Overview
+Overview:
 Predict medical insurance costs using machine learning.
 
-Features
+Features:
 Data analysis and visualization
 Machine learning models for cost prediction
 Evaluation metrics for model performance
 
-Contributing
+Contributing:
 Feel free to submit bug reports or feature requests.
